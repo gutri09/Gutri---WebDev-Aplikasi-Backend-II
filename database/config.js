@@ -5,7 +5,7 @@ const databaseConfig = new Client({
     user: 'postgres',
     database: 'gutri_backend_2',
     port: 5432,
-    password: 'jnkmujiklop'
+    password: 'postgres'
 })
 
 module.exports = databaseConfig
